@@ -1,0 +1,12 @@
+{
+  "\u0000plugin-vue:export-helper": [
+  ],
+  "resources/js/components/Nav.vue": [
+  ],
+  "resources/js/pages/About.vue": [
+  ],
+  "resources/js/pages/Home.vue": [
+  ],
+  "resources/js/ssr.js": [
+  ]
+}
